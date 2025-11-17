@@ -165,7 +165,7 @@ The system tracks API usage:
 
 **Total per analysis**: ~$0.02 (2 cents)
 
-**$250 credits** = ~12,500 analyses!
+**50 credits** = ~1250 analyses!
 
 ---
 
