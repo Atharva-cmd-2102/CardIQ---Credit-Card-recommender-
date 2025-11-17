@@ -1,0 +1,28 @@
+# CardIQ - Credit Card Recommendation System
+# Core Dependencies
+
+# LLM & AI
+anthropic>=0.34.0
+
+# RAG Components
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+langchain>=0.1.0
+
+# PDF Processing
+pypdf>=3.17.0
+pdfplumber>=0.10.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# UI
+streamlit>=1.29.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Optional but useful
+plotly>=5.18.0
